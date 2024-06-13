@@ -1,0 +1,11 @@
+.conte {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh; 
+}
+
+.imagen-pequeña {
+  width: 200px; 
+  height: auto;
+}
